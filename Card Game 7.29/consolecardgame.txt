@@ -1,0 +1,12 @@
+Console for card game
+
+2 of Diamonds
+3 of Clubs
+7 of Diamonds
+3 of Spades
+2
+3
+7
+3
+Sum of picked cards is : 15
+The number of times the cards sum is 24 is: 0
