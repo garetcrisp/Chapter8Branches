@@ -1,0 +1,8 @@
+console for 8.11
+
+This is a head and tails matrix game
+Please enter a number between 0 and 511 (0 and 511 can also be entered)
+212
+H H H 
+T H T 
+H T T 
